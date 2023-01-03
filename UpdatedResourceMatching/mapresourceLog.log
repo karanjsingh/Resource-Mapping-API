@@ -1,0 +1,1761 @@
+2022-12-21 16:44:21 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:44:21 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:44:24 [INFO    ] (views.mapResource) Inside Map Resource and No resource is available to map
+2022-12-21 16:44:24 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:44:24 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:44:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:44:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:44:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:44:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:44:56 [INFO    ] (views.mapResource) Inside Map Resource and No resource is available to map
+2022-12-21 16:44:56 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:44:56 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:45:25 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:45:25 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:45:27 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:45:27 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:46:58 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:46:58 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:47:00 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:47:00 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:53:44 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:53:44 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:53:45 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:53:45 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:55:56 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:55:56 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:55:58 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:55:58 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:56:23 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:56:23 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:56:24 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:56:24 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:57:14 [INFO    ] (views.mapResource) Inside Map Resource and No resource is available to map
+2022-12-21 16:57:14 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:57:14 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 73
+2022-12-21 16:57:21 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:57:21 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 16:57:22 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:57:22 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 16:57:35 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 16:57:35 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 16:57:35 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 16:57:35 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 16:57:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 16:57:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 1606
+2022-12-21 16:57:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 1606
+2022-12-21 17:04:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:04:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:04:41 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:04:41 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:04:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:04:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:04:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:04:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:05:00 [ERROR   ] (views.mapResource) DATABASE NAME OR ENTRIES ARE INVALID
+Traceback (most recent call last):
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 63, in mapResource
+    1//0
+ZeroDivisionError: integer division or modulo by zero
+2022-12-21 17:05:00 [ERROR   ] (log.log_response) Internal Server Error: /map/
+2022-12-21 17:05:00 [ERROR   ] (log.log_response) Internal Server Error: /map/
+2022-12-21 17:05:00 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 10215
+2022-12-21 17:05:00 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 10215
+2022-12-21 17:05:38 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:05:38 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:05:40 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:05:40 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:06:37 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:06:37 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:06:39 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:06:39 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:06:40 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:06:40 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:06:40 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:06:40 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:06:40 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:40 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:06:40 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:06:47 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:06:47 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:06:47 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:06:47 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:06:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:06:47 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:06:47 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:07:17 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:07:17 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:07:17 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:07:17 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:07:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:07:17 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 1084
+2022-12-21 17:07:17 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 1084
+2022-12-21 17:22:14 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:22:14 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:22:20 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:22:20 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:22:24 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:22:24 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:22:24 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:22:24 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:22:24 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:22:24 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:22:24 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:24:23 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:24:23 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:24:24 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:24:24 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:24:48 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:24:48 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:24:50 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:24:50 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:25:06 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:25:06 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:25:06 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:25:06 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:25:06 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:06 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:25:06 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:25:07 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:25:07 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:25:07 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:25:07 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:25:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:25:07 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:25:07 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:25:12 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:25:12 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:25:14 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:25:14 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:25:15 [INFO    ] (views.mapResource) Inside Map Resource and No resource is available to map
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 10195
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 10195
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2022-12-21 17:25:15 [INFO    ] (basehttp.log_message) "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2022-12-21 17:25:15 [WARNING ] (log.log_response) Not Found: /favicon.ico
+2022-12-21 17:25:15 [WARNING ] (log.log_response) Not Found: /favicon.ico
+2022-12-21 17:25:15 [WARNING ] (basehttp.log_message) "GET /favicon.ico HTTP/1.1" 404 2896
+2022-12-21 17:25:15 [WARNING ] (basehttp.log_message) "GET /favicon.ico HTTP/1.1" 404 2896
+2022-12-21 17:26:20 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:26:20 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:26:21 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:26:21 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:26:26 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:26:26 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:26:27 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:26:27 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:27:44 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:27:44 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:27:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:27:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:28:58 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:28:58 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:28:59 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:28:59 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:30:16 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:30:16 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-21 17:31:26 [INFO    ] (views.mapResource) Inside Map Resource and No resource is available to map
+2022-12-21 17:31:26 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 10195
+2022-12-21 17:31:26 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 10195
+2022-12-21 17:31:52 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:31:52 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-21 17:31:54 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:31:54 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-21 17:31:59 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-21 17:31:59 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-21 17:31:59 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-21 17:31:59 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-21 17:31:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-21 17:31:59 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-21 17:31:59 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-23 13:54:37 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:54:37 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:54:50 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 13:54:50 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 13:54:51 [WARNING ] (log.log_response) Not Found: /favicon.ico
+2022-12-23 13:54:51 [WARNING ] (log.log_response) Not Found: /favicon.ico
+2022-12-23 13:54:51 [WARNING ] (basehttp.log_message) "GET /favicon.ico HTTP/1.1" 404 2896
+2022-12-23 13:54:51 [WARNING ] (basehttp.log_message) "GET /favicon.ico HTTP/1.1" 404 2896
+2022-12-23 13:54:59 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 13:54:59 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 13:54:59 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 13:54:59 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 13:54:59 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:54:59 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-23 13:54:59 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13116
+2022-12-23 13:55:14 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 13:55:14 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 13:58:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:58:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:58:39 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:58:39 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:58:49 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:58:49 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:58:50 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:58:50 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:58:54 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 13:58:54 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 13:58:54 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 13:58:54 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 13:58:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:58:54 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13510
+2022-12-23 13:58:54 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13510
+2022-12-23 13:59:29 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:59:29 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 13:59:30 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:59:30 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 13:59:36 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 13:59:36 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 13:59:57 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 13:59:57 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 13:59:57 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 13:59:57 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 13:59:57 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 13:59:57 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 13:59:57 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:01:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:01:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:06:04 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:04 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:05 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:05 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:16 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:06:16 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:06:16 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:06:16 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:06:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:16 [ERROR   ] (views.mapResource) DATABASE NAME OR ENTRIES ARE INVALID
+Traceback (most recent call last):
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 62, in updateDB
+    req_id = req['Request_id']
+TypeError: string indices must be integers
+2022-12-23 14:06:16 [WARNING ] (log.log_response) Bad Request: /map/
+2022-12-23 14:06:16 [WARNING ] (log.log_response) Bad Request: /map/
+2022-12-23 14:06:16 [WARNING ] (basehttp.log_message) "GET /map/ HTTP/1.1" 400 10190
+2022-12-23 14:06:16 [WARNING ] (basehttp.log_message) "GET /map/ HTTP/1.1" 400 10190
+2022-12-23 14:06:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:06:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:06:55 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:06:55 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:06:55 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:06:55 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:06:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:06:55 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 62, in updateDB
+    req_id = req['Request_id']
+TypeError: string indices must be integers
+2022-12-23 14:06:55 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 62, in updateDB
+    req_id = req['Request_id']
+TypeError: string indices must be integers
+2022-12-23 14:06:55 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117605
+2022-12-23 14:06:55 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117605
+2022-12-23 14:07:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:07:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:07:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:07:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:07:11 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:07:11 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:07:11 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:07:11 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:07:11 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:07:11 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 62, in updateDB
+    req_id = int(req['Request_id'])
+TypeError: string indices must be integers
+2022-12-23 14:07:11 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 62, in updateDB
+    req_id = int(req['Request_id'])
+TypeError: string indices must be integers
+2022-12-23 14:07:11 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117615
+2022-12-23 14:07:11 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117615
+2022-12-23 14:08:55 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:08:55 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:08:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:08:55 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:09:05 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:09:05 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:09:05 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:09:05 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:09:07 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:09:07 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:09:07 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:09:07 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:09:07 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:07 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 63, in updateDB
+    emp_id = req['EMP_ID']
+TypeError: string indices must be integers
+2022-12-23 14:09:07 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 63, in updateDB
+    emp_id = req['EMP_ID']
+TypeError: string indices must be integers
+2022-12-23 14:09:07 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117570
+2022-12-23 14:09:07 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 117570
+2022-12-23 14:09:20 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:09:20 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:09:20 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:09:20 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:09:21 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:09:21 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:09:21 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:09:21 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:09:21 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:09:21 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:09:21 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:10:11 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:11 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:11 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:11 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:12 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:10:12 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:10:12 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:10:12 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:10:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:12 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:10:12 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:10:30 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:30 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:31 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:31 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:32 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:10:32 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:10:32 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:10:32 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:10:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:32 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 64, in updateDB
+    t = Project.objects.values_list.get(id=req_id)
+AttributeError: 'function' object has no attribute 'get'
+2022-12-23 14:10:32 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 64, in updateDB
+    t = Project.objects.values_list.get(id=req_id)
+AttributeError: 'function' object has no attribute 'get'
+2022-12-23 14:10:32 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118339
+2022-12-23 14:10:32 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118339
+2022-12-23 14:10:51 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:51 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:10:52 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:52 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:10:56 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:10:56 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:10:56 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:10:56 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:10:56 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:10:56 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 64, in updateDB
+    t = Project.objects.values_list.filter(id=req_id)
+AttributeError: 'function' object has no attribute 'filter'
+2022-12-23 14:10:56 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 64, in updateDB
+    t = Project.objects.values_list.filter(id=req_id)
+AttributeError: 'function' object has no attribute 'filter'
+2022-12-23 14:10:56 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118363
+2022-12-23 14:10:56 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118363
+2022-12-23 14:11:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:09 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:09 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:15 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:15 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:16 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:16 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:17 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:11:17 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:11:17 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:11:17 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:11:17 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:17 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:11:17 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:11:45 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:45 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:47 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:11:47 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:11:47 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:11:47 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:11:47 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:47 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 65, in updateDB
+    print(t.values_list())
+AttributeError: 'Project' object has no attribute 'values_list'
+2022-12-23 14:11:47 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 179, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 65, in updateDB
+    print(t.values_list())
+AttributeError: 'Project' object has no attribute 'values_list'
+2022-12-23 14:11:47 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118481
+2022-12-23 14:11:47 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118481
+2022-12-23 14:11:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:53 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:11:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:53 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:11:55 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:11:55 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:11:55 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:11:55 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:11:55 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:11:55 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:11:55 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:11 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:12:11 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:12:12 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:12:12 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:12:12 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:12:12 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:12:12 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:12:12 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:12:12 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:12 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:12 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:31 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:12:31 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:12:32 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:12:32 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:12:33 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:12:33 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:12:33 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:12:33 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:12:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:33 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:33 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:35 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:12:35 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:12:35 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:12:35 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:12:35 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:12:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:12:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:14:37 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:14:37 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:14:37 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:14:37 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:15:08 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:15:08 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:15:08 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:15:08 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:15:16 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:15:16 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:15:16 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:15:16 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:15:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:16 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 183, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 69, in updateDB
+    t.empid = t.empid + ", "+emp_id
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+2022-12-23 14:15:16 [ERROR   ] (log.log_response) Internal Server Error: /map/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 183, in mapResource
+    updateDB(mapdic)
+  File "D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py", line 69, in updateDB
+    t.empid = t.empid + ", "+emp_id
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+2022-12-23 14:15:16 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118567
+2022-12-23 14:15:16 [ERROR   ] (basehttp.log_message) "GET /map/ HTTP/1.1" 500 118567
+2022-12-23 14:15:46 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:15:46 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:15:47 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:15:47 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:15:48 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:15:48 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:15:48 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:15:48 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:15:48 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:15:48 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:15:48 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:16:04 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:16:04 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:16:14 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:16:14 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:16:14 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:16:14 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:16:14 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:16:14 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:16:14 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:16:36 [INFO    ] (basehttp.log_message) "GET /admin/ HTTP/1.1" 200 7528
+2022-12-23 14:16:36 [INFO    ] (basehttp.log_message) "GET /admin/ HTTP/1.1" 200 7528
+2022-12-23 14:16:40 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8265
+2022-12-23 14:16:40 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8265
+2022-12-23 14:16:40 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:16:40 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:16:42 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/9/change/ HTTP/1.1" 200 8424
+2022-12-23 14:16:42 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/9/change/ HTTP/1.1" 200 8424
+2022-12-23 14:16:42 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:16:42 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:16:53 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:16:53 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/9/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/9/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:40 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:42 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/8/change/ HTTP/1.1" 200 8433
+2022-12-23 14:17:42 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/8/change/ HTTP/1.1" 200 8433
+2022-12-23 14:17:42 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:42 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/8/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/8/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:46 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:48 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/7/change/ HTTP/1.1" 200 8424
+2022-12-23 14:17:48 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/7/change/ HTTP/1.1" 200 8424
+2022-12-23 14:17:48 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:48 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/7/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/7/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:52 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:53 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/6/change/ HTTP/1.1" 200 8424
+2022-12-23 14:17:53 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/6/change/ HTTP/1.1" 200 8424
+2022-12-23 14:17:53 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:53 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/6/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/6/change/ HTTP/1.1" 302 0
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:17:58 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:00 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/5/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:00 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/5/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:00 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:00 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/5/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/5/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:04 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:06 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/5/change/ HTTP/1.1" 200 8409
+2022-12-23 14:18:06 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/5/change/ HTTP/1.1" 200 8409
+2022-12-23 14:18:06 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:06 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/5/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/5/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:08 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:10 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/4/change/ HTTP/1.1" 200 8425
+2022-12-23 14:18:10 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/4/change/ HTTP/1.1" 200 8425
+2022-12-23 14:18:10 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:10 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/4/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/4/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:13 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:15 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/3/change/ HTTP/1.1" 200 8425
+2022-12-23 14:18:15 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/3/change/ HTTP/1.1" 200 8425
+2022-12-23 14:18:15 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:15 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/3/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/3/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:19 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:20 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/2/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:20 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/2/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:20 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:20 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/2/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/2/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:24 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:25 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/1/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:25 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/1/change/ HTTP/1.1" 200 8424
+2022-12-23 14:18:25 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:25 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/1/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "POST /admin/resourcemap/project/1/change/ HTTP/1.1" 302 0
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "GET /admin/resourcemap/project/ HTTP/1.1" 200 8484
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:29 [INFO    ] (basehttp.log_message) "GET /admin/jsi18n/ HTTP/1.1" 200 3195
+2022-12-23 14:18:33 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:18:33 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:21:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:21:39 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:21:40 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:21:40 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:21:49 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:21:49 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:21:54 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:21:54 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:21:54 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:21:54 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:21:54 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:21:54 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:21:54 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:21:59 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:21:59 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:22:02 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:22:02 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:22:02 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:22:02 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:22:02 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:02 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:22:02 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:22:06 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:22:06 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:22:27 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:22:27 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:22:28 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:22:28 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:22:32 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:22:32 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12656
+2022-12-23 14:22:34 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:22:34 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:22:34 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:22:34 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:22:34 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:22:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:22:35 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:22:37 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:22:37 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:23:00 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:00 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:01 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:23:01 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:23:16 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:16 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:17 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:23:17 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:23:19 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:23:19 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:23:19 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:23:19 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:23:19 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:23:19 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:23:19 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:23:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:23:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:23:45 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:45 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:23:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:23:46 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:24:04 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\urls.py changed, reloading.
+2022-12-23 14:24:04 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\urls.py changed, reloading.
+2022-12-23 14:24:04 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:24:04 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:24:10 [INFO    ] (basehttp.log_message) "GET /clear HTTP/1.1" 301 0
+2022-12-23 14:24:10 [INFO    ] (basehttp.log_message) "GET /clear HTTP/1.1" 301 0
+2022-12-23 14:24:10 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: clear() takes 0 positional arguments but 1 was given
+2022-12-23 14:24:10 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: clear() takes 0 positional arguments but 1 was given
+2022-12-23 14:24:10 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 65344
+2022-12-23 14:24:10 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 65344
+2022-12-23 14:25:07 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:07 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:08 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:08 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:17 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:17 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:18 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:18 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:28 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:28 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:25:29 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:29 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:25:33 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:25:33 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:25:33 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:25:33 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:25:33 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:25:34 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:25:34 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:25:40 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\response.py", line 55, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2022-12-23 14:25:40 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\response.py", line 55, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2022-12-23 14:25:40 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 73307
+2022-12-23 14:25:40 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 73307
+2022-12-23 14:27:00 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:27:00 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:27:00 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:27:00 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:27:02 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\response.py", line 55, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2022-12-23 14:27:02 [ERROR   ] (log.log_response) Internal Server Error: /clear/
+Traceback (most recent call last):
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "C:\Users\Acer\Envs\dj\lib\site-packages\rest_framework\response.py", line 55, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+2022-12-23 14:27:02 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 73444
+2022-12-23 14:27:02 [ERROR   ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 500 73444
+2022-12-23 14:28:02 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:28:02 [INFO    ] (autoreload.trigger_reload) D:\study\Django\Mediphore_Assessment\UpdatedResourceMatching\resourcemapAPI\views.py changed, reloading.
+2022-12-23 14:28:03 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:28:03 [INFO    ] (autoreload.run_with_reloader) Watching for file changes with StatReloader
+2022-12-23 14:28:05 [INFO    ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 200 38
+2022-12-23 14:28:05 [INFO    ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 200 38
+2022-12-23 14:28:09 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:28:09 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:28:16 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 14:28:16 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 14:28:16 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 14:28:16 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 14:28:16 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 14:28:16 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:28:16 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 14:28:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:28:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 14:28:29 [INFO    ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 200 38
+2022-12-23 14:28:29 [INFO    ] (basehttp.log_message) "GET /clear/ HTTP/1.1" 200 38
+2022-12-23 14:28:34 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:28:34 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:52:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 14:52:21 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 15:04:51 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 15:04:51 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 15:05:39 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 15:05:39 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 15:06:12 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 15:06:12 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12522
+2022-12-23 15:06:29 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 15:06:29 [INFO    ] (basehttp.log_message) "GET /emp/ HTTP/1.1" 200 11580
+2022-12-23 15:06:32 [INFO    ] (views.mapResource) STARTED creating Resource Skill Dictionary
+2022-12-23 15:06:32 [INFO    ] (views.mapResource) CREATED Resource Skill Dictionary
+2022-12-23 15:06:32 [INFO    ] (views.mapResource) START SORTING PROJECT REQUIREMENTS ACCORDING TO START DATE
+2022-12-23 15:06:32 [INFO    ] (views.mapResource) SORTING COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-18 to 2022-12-20
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-19 to 2022-12-20
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: BACKEND with EMPLOYEE: B2 from 2022-12-19 to 2022-12-21
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-19 to 2022-12-21
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT2 and SkillSET: TESTING with EMPLOYEE: T1 from 2022-12-20 to 2022-12-22
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT1 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-20 to 2022-12-23
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: BACKEND with EMPLOYEE: B1 from 2022-12-21 to 2022-12-23
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F1 from 2022-12-21 to 2022-12-21
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: FRONTEND with EMPLOYEE: F2 from 2022-12-22 to 2022-12-23
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE the MAP Dictionary for PROJECT: PROJECT3 and SkillSET: TESTING with EMPLOYEE: T2 from 2022-12-24 to 2022-12-25
+2022-12-23 15:06:32 [INFO    ] (views.updatemapdic) UPDATE COMPLETED
+2022-12-23 15:06:34 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 15:06:34 [INFO    ] (basehttp.log_message) "GET /map/ HTTP/1.1" 200 13506
+2022-12-23 15:07:20 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
+2022-12-23 15:07:20 [INFO    ] (basehttp.log_message) "GET / HTTP/1.1" 200 12616
